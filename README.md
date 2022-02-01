@@ -1,2 +1,8 @@
 # College-liberary
-This is a simple project that help me to learn how to use oops concept in JavaScript and also about local Storage and Session Storage.
+This is a simple project that added book to your record.
+Through this simple project I able to learn:
+1) Use Oops concept in JavaScript.
+2) Usage of Local and Session Storage.
+3) Little about Bootstrap.
+
+

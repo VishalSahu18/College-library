@@ -1,4 +1,4 @@
-# College-liberary
+# College-library
 This is a simple project that added book to your record.
 Through this project I able to learn:
 1) Use of Oops concept in JavaScript.
